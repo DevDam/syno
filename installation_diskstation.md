@@ -8,6 +8,7 @@
 `ln -s /volume1/homes /home`
 
 ## installation de ipkg
+- inspiré de ce tuto [rescene](http://rescene.wikidot.com/synology-ipkg)
 - determiner le proc : `uname --machine`
 - `cd /tmp`
 - `wget http://ipkg.nslu2-linux.org/feeds/optware/syno-i686/cross/unstable/syno-i686-bootstrap_1.2-7_i686.xsh`
